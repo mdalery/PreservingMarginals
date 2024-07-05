@@ -1,0 +1,648 @@
+Initialization done.
+First example done.
+
+******************************************************************************
+This program contains Ipopt, a library for large-scale nonlinear optimization.
+ Ipopt is released as open source code under the Eclipse Public License (EPL).
+         For more information visit https://github.com/coin-or/Ipopt
+******************************************************************************
+
+Second example done.
+Contour (1, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.0023019907849115427
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.0023019907849115427
+L2 distance between current MW2 barycenter and PMC is 3.167694661354883e-10
+Maximum L2 distance between MW2 barycenters and PMCs is 3.167694661354883e-10
+MW2 distance between current MW2 barycenter and PMMP is 0.0023075127332159075
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.0023075127332159075
+L2 distance between current MW2 barycenter and PMMP is 2.976369837862821e-10
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.976369837862821e-10
+MW2 distance between current PMC and PMMP is 0.0001595484786944673
+Maximum MW2 distance between PMCs and PMMPs is 0.0001595484786944673
+L2 distance between current PMC and PMMP is 3.2897406696354644e-11
+Maximum L2 distance between PMCs and PMMPs is 3.2897406696354644e-11
+Contour (1, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.16361240354017278
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.16361240354017278
+L2 distance between current MW2 barycenter and PMC is 1.599121961448529e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 1.599121961448529e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.16361479371511797
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.16361479371511797
+L2 distance between current MW2 barycenter and PMMP is 1.591816562141591e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 1.591816562141591e-8
+MW2 distance between current PMC and PMMP is 0.0008924538593675382
+Maximum MW2 distance between PMCs and PMMPs is 0.0008924538593675382
+L2 distance between current PMC and PMMP is 1.3413485648356003e-10
+Maximum L2 distance between PMCs and PMMPs is 1.3413485648356003e-10
+Contour (1, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.25104001067399
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.25104001067399
+L2 distance between current MW2 barycenter and PMC is 2.257957618826274e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 2.257957618826274e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.251044416188778
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.251044416188778
+L2 distance between current MW2 barycenter and PMMP is 2.250337986550547e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.250337986550547e-8
+MW2 distance between current PMC and PMMP is 0.0015066443176834394
+Maximum MW2 distance between PMCs and PMMPs is 0.0015066443176834394
+L2 distance between current PMC and PMMP is 1.658535569931621e-10
+Maximum L2 distance between PMCs and PMMPs is 1.658535569931621e-10
+Contour (1, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.2721185614418056
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.2721185614418056
+L2 distance between current MW2 barycenter and PMC is 2.352771930095924e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 2.352771930095924e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.27212118823319675
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.27212118823319675
+L2 distance between current MW2 barycenter and PMMP is 2.3490241034000066e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.3490241034000066e-8
+MW2 distance between current PMC and PMMP is 0.001210720866626035
+Maximum MW2 distance between PMCs and PMMPs is 0.0015066443176834394
+L2 distance between current PMC and PMMP is 1.1395789318738163e-10
+Maximum L2 distance between PMCs and PMMPs is 1.658535569931621e-10
+Contour (1, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.23387002348859895
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.2721185614418056
+L2 distance between current MW2 barycenter and PMC is 1.984439850526296e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 2.352771930095924e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.23387062639264616
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.27212118823319675
+L2 distance between current MW2 barycenter and PMMP is 1.9835632660795828e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.3490241034000066e-8
+MW2 distance between current PMC and PMMP is 0.0005354015418438344
+Maximum MW2 distance between PMCs and PMMPs is 0.0015066443176834394
+L2 distance between current PMC and PMMP is 4.897544407869121e-11
+Maximum L2 distance between PMCs and PMMPs is 1.658535569931621e-10
+Contour (1, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.14204777641725558
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.2721185614418056
+L2 distance between current MW2 barycenter and PMC is 1.18536257550125e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 2.352771930095924e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.14204784910519797
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.27212118823319675
+L2 distance between current MW2 barycenter and PMMP is 1.1852231125010201e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.3490241034000066e-8
+MW2 distance between current PMC and PMMP is 0.000143922202198752
+Maximum MW2 distance between PMCs and PMMPs is 0.0015066443176834394
+L2 distance between current PMC and PMMP is 1.3642905600361589e-11
+Maximum L2 distance between PMCs and PMMPs is 1.658535569931621e-10
+Contour (1, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.0029433798112401916
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.2721185614418056
+L2 distance between current MW2 barycenter and PMC is 3.4850872955242177e-10
+Maximum L2 distance between MW2 barycenters and PMCs is 2.352771930095924e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.002945495686225426
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.27212118823319675
+L2 distance between current MW2 barycenter and PMMP is 3.448793561368251e-10
+Maximum L2 distance between MW2 barycenters and PMMPs is 2.3490241034000066e-8
+MW2 distance between current PMC and PMMP is 0.00011162967462095568
+Maximum MW2 distance between PMCs and PMMPs is 0.0015066443176834394
+L2 distance between current PMC and PMMP is 1.0055527016876438e-11
+Maximum L2 distance between PMCs and PMMPs is 1.658535569931621e-10
+Contour (2, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3633349876711857
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 5.255655683916439e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3633388084927352
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 5.2552092744873755e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0017066876601983306
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 2.2073795113132538e-10
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3495634679353795
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 4.7783956757239685e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3495662793492438
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 4.7725582755847686e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.00141919555949657
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 1.8963289368769804e-10
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3441556149966778
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 4.1283896232530854e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.34415865418754016
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 4.120865257833031e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0014628355442716148
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 1.6731977857698687e-10
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.32059785820489084
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 3.492493099246142e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.32060016258383855
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 3.4874824344943537e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0012306916990128625
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 1.1247266468647582e-10
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.2636887378861636
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 2.719936152990197e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.26368970036088685
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 2.7181243224646606e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0007200440309313917
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 6.036906355078915e-11
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.17500288698860758
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 1.8017296592567534e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.17500323816720795
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 1.8017400970992338e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0003521811495195543
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 2.961072139524573e-11
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (2, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.08012847151995683
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.3633349876711857
+L2 distance between current MW2 barycenter and PMC is 6.921245904221639e-9
+Maximum L2 distance between MW2 barycenters and PMCs is 5.255655683916439e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.08012924258790712
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.3633388084927352
+L2 distance between current MW2 barycenter and PMMP is 6.926676365299818e-9
+Maximum L2 distance between MW2 barycenters and PMMPs is 5.2552092744873755e-8
+MW2 distance between current PMC and PMMP is 0.0003524448883298447
+Maximum MW2 distance between PMCs and PMMPs is 0.0017066876601983306
+L2 distance between current PMC and PMMP is 2.3387872039376417e-11
+Maximum L2 distance between PMCs and PMMPs is 2.2073795113132538e-10
+Contour (3, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.5565027058990885
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 7.433874475896499e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5565318484835788
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 7.442276327802212e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.005919306254046976
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 5.787564598932829e-10
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.5000312583836208
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 6.36252874171461e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5000352632559323
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 6.361045898132537e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.002038760811658754
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 2.2960874623292456e-10
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.447550445231983
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 5.2851572523593944e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.44755207286162163
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 5.28077448361637e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.0012191289101290419
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 1.3555510464146343e-10
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.38856580124152146
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 4.391942893205603e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.38856755054205894
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 4.388591616207598e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.0011776426757136114
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 1.1838425596484256e-10
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.31335473433220945
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 3.3529680947413095e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.31335683410831244
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 3.35238563125487e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.0011555428102418147
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 1.0669422271570534e-10
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.22042668858552483
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 2.246190772429051e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.22042998621373538
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 2.2479769950374503e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.0012119387021886834
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 8.7604402972661e-11
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (3, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.1288895482029638
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5565027058990885
+L2 distance between current MW2 barycenter and PMC is 1.0703251714508304e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.433874475896499e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.1288970085351644
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5565318484835788
+L2 distance between current MW2 barycenter and PMMP is 1.0728411903922885e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.442276327802212e-8
+MW2 distance between current PMC and PMMP is 0.0013940035906783305
+Maximum MW2 distance between PMCs and PMMPs is 0.005919306254046976
+L2 distance between current PMC and PMMP is 7.915097216068604e-11
+Maximum L2 distance between PMCs and PMMPs is 5.787564598932829e-10
+Contour (4, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.5985290291160478
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 7.650759249091153e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5985782616541899
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 7.668257256421206e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.00796351936850412
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 7.286840095581919e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.5443615520055836
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 6.518166069660743e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5443656195612858
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 6.519172623902132e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002144142634754765
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 2.1409970238498215e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.4954028599457943
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 5.296861537811563e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.4954046411638596
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 5.296720787396311e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.001339948240183486
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.287241376059779e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.43107113470799197
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.4689471513289074e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.4310742784470232
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.4706286529246814e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0016587998955392607
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.511221701989163e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3517440764537598
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.6677306837696166e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3517495348207341
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.670970834402453e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.001973266893792926
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.5352439207437592e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.2533011805679651
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 2.6116895078462284e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.2533108678118912
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 2.6155418670913773e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002231240262982077
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.4159657966643745e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (4, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.14874970648719113
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 1.2244620471425078e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.14876658142297328
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 1.2276946331360539e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0022570068760757954
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.2294989227180195e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.508820081436345
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 6.407212743624242e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5088523578689554
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 6.423100056730266e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.005885565150269799
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 5.70180991678008e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.5064773524892737
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 6.058580682123212e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.5064795212711946
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 6.05989061650575e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0015023827761849022
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.4943812487903735e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.4802582895989542
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.900001933256231e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.48026131123992416
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.9040439758991706e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0017194225683560046
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.4780309391505484e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.45455390497724657
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.532669981633269e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.45455979562034826
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.539141021299271e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002333650626908736
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.8823938837832183e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.4100213239115474
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.11356636488343e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.41003094030517984
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.115423844684753e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002853072788113869
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.7565720746911267e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.2882075969139656
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.054534875833079e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.288221879226137
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.056428473634407e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0029067641587535195
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.7089445294246092e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (5, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.13778491255109976
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 1.1913009464451133e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.1378006870385565
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 1.1934120630379793e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002102114799328
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.1471996435639746e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3050405045955352
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.8025142789104473e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3050469496546089
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.80820472475876e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002009795725260291
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 2.2622681059271194e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3865668458511457
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.8156026688507094e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3865680932422546
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.816238528985058e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0009903912797778382
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.0349162999414977e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.46708894807246587
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.938377573764579e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.4670941065354526
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.941203063736153e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0022196571337486566
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.7990265722037391e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.4770228761660602
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 5.003291572467191e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.4770304768303074
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 5.006812337859715e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002726753183693289
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.6196297731333344e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.4129769879174678
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 4.2935787655565586e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.4129830828292611
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 4.294886495950534e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.002271384361295099
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.5030306989720584e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.27802792039752616
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.111071398817469e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.2780312108557909
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.110404925788693e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0013669188268515438
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.0642794244485715e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (6, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.09137724488710842
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 8.4648471926037e-9
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.09138117491890153
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 8.467885758099123e-9
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.000852979227071741
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 5.1213394615252375e-11
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 1) done.
+MW2 distance between current MW2 barycenter and PMC is 0.0028839493529619078
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.327257893659098e-10
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.0028913570056588976
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.110330518067059e-10
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.00020684674641548886
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 3.5206987833334913e-11
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 2) done.
+MW2 distance between current MW2 barycenter and PMC is 0.22371674610348524
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 2.3704720036752815e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.22372132316639656
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 2.3703850191275068e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.001440924583322433
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 1.560269069687103e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 3) done.
+MW2 distance between current MW2 barycenter and PMC is 0.351015328344983
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.62467067604062e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.35103814922617066
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.62886196699712e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.004047925590705999
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 3.1382749026797703e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 4) done.
+MW2 distance between current MW2 barycenter and PMC is 0.39119049430204667
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.801940859139557e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.3912277378106029
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.8077671989115865e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.005478637424779643
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 3.388619230782161e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 5) done.
+MW2 distance between current MW2 barycenter and PMC is 0.3475573057874024
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.385804989343387e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.34758474592725463
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.3904825288898075e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.0044371103731838035
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 2.374035671858885e-10
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 6) done.
+MW2 distance between current MW2 barycenter and PMC is 0.21924787201080148
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 2.328444780180505e-8
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.2192534314205162
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 2.3296104370598824e-8
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 0.001579927813841976
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 8.085740554582936e-11
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Contour (7, 7) done.
+MW2 distance between current MW2 barycenter and PMC is 0.0038788412760750244
+Maximum MW2 distance between MW2 barycenters and PMCs is 0.5985290291160478
+L2 distance between current MW2 barycenter and PMC is 3.617791256561963e-10
+Maximum L2 distance between MW2 barycenters and PMCs is 7.650759249091153e-8
+MW2 distance between current MW2 barycenter and PMMP is 0.003879445906038955
+Maximum MW2 distance between MW2 barycenters and PMMPs is 0.5985782616541899
+L2 distance between current MW2 barycenter and PMMP is 3.596541253334245e-10
+Maximum L2 distance between MW2 barycenters and PMMPs is 7.668257256421206e-8
+MW2 distance between current PMC and PMMP is 6.84954868151515e-5
+Maximum MW2 distance between PMCs and PMMPs is 0.00796351936850412
+L2 distance between current PMC and PMMP is 5.739861036659853e-12
+Maximum L2 distance between PMCs and PMMPs is 7.286840095581919e-10
+Third example done.
