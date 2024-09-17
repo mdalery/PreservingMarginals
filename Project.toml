@@ -1,0 +1,16 @@
+name = "PreservingMarginals"
+uuid = "6be2373d-6edd-4cb8-b3c0-5694b489f0b4"
+authors = ["Maxime Dalery <maxime.dalery@univ-fcomte.fr>"]
+version = "0.1.0"
+
+[deps]
+FileIO = "5789e2e9-d7fb-5bc7-8068-2c6fae9b9549"
+GLPK = "60bf3e95-4087-53dc-ae20-288a0d20c6a6"
+GaussianMixtures = "cc18c42c-b769-54ff-9e2a-b28141a64aae"
+Ipopt = "b6b21f68-93f8-5de0-b562-5493be1d77c9"
+JLD2 = "033835bb-8acc-5ee8-8aae-3f567f8a3819"
+JuMP = "4076af6c-e467-56ae-b986-b466b2749572"
+LaTeXStrings = "b964fa9f-0449-5b57-a5c2-d3ea65f4040f"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Plots = "91a5bcdd-55d7-5caf-9e0b-520d859cae80"
+ScikitLearn = "3646fa90-6ef7-5e7e-9f22-8aca16db6324"
